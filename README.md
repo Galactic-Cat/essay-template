@@ -1,5 +1,5 @@
 # Essay Template
-For my university studies I write a lot of $\LaTeX$ documents. I figured I might just create this template to help me out, as I'm always looking back at old documents on how to start again.
+For my university studies I write a lot of LaTeX documents. I figured I might just create this template to help me out, as I'm always looking back at old documents on how to start again.
 
 ## Template
 
